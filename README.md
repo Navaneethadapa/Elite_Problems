@@ -10,5 +10,11 @@ This Repo Contains day by day problems of ELITE program
 2. Longest Substring with At Least K Repeating Characters
 3. String to Integer (atoi)
 4. Longest Substring Without Repeating Characters
+5. Lowest Common Ancestor of a Binary Tree
+6. Climbing Stairs
+7. Invert Binary Tree
+8. Path Sum
+9. Minimum Depth of Binary Tree
+
 
 ```
