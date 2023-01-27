@@ -27,6 +27,10 @@ This Repo Contains day by day problems of ELITE program
 
 '''shell
 
+27/01/23
 
+10. Pre Order Traversal
+11. Post Order Traversal
+12. Maximum Depth of Binary Tree
 
 '''
