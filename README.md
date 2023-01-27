@@ -25,7 +25,7 @@ This Repo Contains day by day problems of ELITE program
 9. Minimum Depth of Binary Tree
 ```
 
-'''shell
+```shell
 
 27/01/23
 
@@ -33,4 +33,4 @@ This Repo Contains day by day problems of ELITE program
 11. Post Order Traversal
 12. Maximum Depth of Binary Tree
 
-'''
+```
