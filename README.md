@@ -6,7 +6,7 @@ This Repo Contains day by day problems of ELITE program
 
 ```shell
 
-24/01/23 || 25/01/23
+24/01/23 && 25/01/23
 
 1. Minimum Window Substring
 2. Longest Substring with At Least K Repeating Characters
